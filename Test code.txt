@@ -39,7 +39,9 @@ git init
 # 
 # "git commit" is a local task.
 # git commit requires a message (descriptor) using "git commit -m "descriptor here""
-# "git push" is used to commit the changes to the hub
+# "git push origin master" is used to commit the changes to the hub
+
+
 
 
 
