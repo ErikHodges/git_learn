@@ -32,6 +32,14 @@ git config --global user.email
 # to initialize a file use 
 git init
 
+# start by using "git init" to establish the repository on the local machine
+# once repository is initialized, use "git add" to specify which files you want
+# to attach to the repository
+
+# 
+# "git commit" is a local task.
+# git commit requires a message (descriptor) using "git commit -m "descriptor here""
+# "git push" is used to commit the changes to the hub
 
 
 
