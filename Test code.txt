@@ -1,0 +1,22 @@
+# Test code
+
+cd
+
+ls
+
+git --version
+
+# to clone code
+# Set the commit name
+git config --global user.name "Erik Hodges"
+
+# to check the current user name
+git config --global user.name
+
+# to set up the email
+git config --global user.email "erikhodges07@yahoo.com"
+
+# to view the email address
+git config --global user.email
+
+# to clone a git repository
