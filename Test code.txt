@@ -20,3 +20,18 @@ git config --global user.email "erikhodges07@yahoo.com"
 git config --global user.email
 
 # to clone a git repository
+ git clone https://github.com/tamntn/list-of-all-things.git
+ 
+ # to change working directory
+ cd # space then hit tab to select the first letter of the folder
+
+# git status
+# git branch
+# to go up a folder use cd ..
+
+# to initialize a file use 
+git init
+
+
+
+
